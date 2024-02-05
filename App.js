@@ -1,11 +1,12 @@
-{
-  /* <div>
+import React from "react";
+import ReactDOM from "react-dom/client";
+
+/* <div>
   <div>
     <h1>I am an h1 tag</h1>
     <h2>I am an h2 tag</h2>
   </div>
 </div> */
-}
 
 const parent = React.createElement(
   "div",
